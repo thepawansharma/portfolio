@@ -48,8 +48,8 @@ h1 {
 
 h1 span {
   display: inline-block;
-  -webkit-animation: float 0.2s ease-in-out infinite;
-  animation: float 0.2s ease-in-out infinite;
+  -webkit-animation: float 0.5s ease-in-out infinite;
+  animation: float 0.5s ease-in-out infinite;
 }
 
 @-webkit-keyframes float {
