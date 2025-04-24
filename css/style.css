@@ -193,7 +193,7 @@ a:focus {
     .sidebar .sidebar-footer {
         width: 300px;
         position: fixed;
-        bottom: 20px;
+        bottom: 5px;
         padding: 15px;
         font-size: 0;
         text-align: center;
